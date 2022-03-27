@@ -1,0 +1,15 @@
+D:\LAP TRINH .NET\C# PRACTICE\bin\Debug\net6.0\C# PRACTICE.exe
+D:\LAP TRINH .NET\C# PRACTICE\bin\Debug\net6.0\C# PRACTICE.deps.json
+D:\LAP TRINH .NET\C# PRACTICE\bin\Debug\net6.0\C# PRACTICE.runtimeconfig.json
+D:\LAP TRINH .NET\C# PRACTICE\bin\Debug\net6.0\C# PRACTICE.dll
+D:\LAP TRINH .NET\C# PRACTICE\bin\Debug\net6.0\ref\C# PRACTICE.dll
+D:\LAP TRINH .NET\C# PRACTICE\bin\Debug\net6.0\C# PRACTICE.pdb
+D:\LAP TRINH .NET\C# PRACTICE\obj\Debug\net6.0\C# PRACTICE.csproj.AssemblyReference.cache
+D:\LAP TRINH .NET\C# PRACTICE\obj\Debug\net6.0\C# PRACTICE.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAP TRINH .NET\C# PRACTICE\obj\Debug\net6.0\C# PRACTICE.AssemblyInfoInputs.cache
+D:\LAP TRINH .NET\C# PRACTICE\obj\Debug\net6.0\C# PRACTICE.AssemblyInfo.cs
+D:\LAP TRINH .NET\C# PRACTICE\obj\Debug\net6.0\C# PRACTICE.csproj.CoreCompileInputs.cache
+D:\LAP TRINH .NET\C# PRACTICE\obj\Debug\net6.0\C# PRACTICE.dll
+D:\LAP TRINH .NET\C# PRACTICE\obj\Debug\net6.0\ref\C# PRACTICE.dll
+D:\LAP TRINH .NET\C# PRACTICE\obj\Debug\net6.0\C# PRACTICE.pdb
+D:\LAP TRINH .NET\C# PRACTICE\obj\Debug\net6.0\C# PRACTICE.genruntimeconfig.cache
